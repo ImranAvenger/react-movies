@@ -145,6 +145,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the movie data API
+- [JavaScript Mastery](https://youtu.be/dCLhUialKPQ?si=txRl2UUBFWpGBqDC) for the tutorial inspiration
 - [Appwrite](https://appwrite.io/) for backend services
 - [Vite](https://vitejs.dev/) for the blazing fast build tool
 - [TailwindCSS](https://tailwindcss.com/) for the utility-first CSS framework
